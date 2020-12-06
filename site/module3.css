@@ -1,0 +1,29 @@
+body{
+	font-size: 16px;
+	background-color: green;
+	color: white;
+	
+}
+#header-nav{
+	background-color: #19d14a;
+	border-radius: 0;
+	border: 0;
+	text-shadow: 1px 1px 1px #222;
+}
+.navbar-toggle{
+	margin-bottom: : -10px;
+
+}
+#nav-list{
+	text-shadow: none;
+	
+}
+#nav-list a{
+	color: black;
+	text-align: center;
+	font-size: 20px;
+
+}
+#nav-list a:hover{
+	background-color: white;
+}
